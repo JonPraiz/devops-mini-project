@@ -7,3 +7,6 @@ main
 ## Git Workflow
 
 Learning branching, merging and collaboration.
+## Collaboration Branch
+
+Testing collaborative development workflow.
